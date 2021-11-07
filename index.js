@@ -98,7 +98,7 @@ app.post('/signin', async (req, res) => {
 
 });
 function start() {
-  app.set('port', (process.env.PORT || 3030));
+  app.set('port', (process.env.PORT || 5000));
 
   // Start node server
   app.listen(app.get('port'), function () {
