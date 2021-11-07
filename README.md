@@ -11,20 +11,18 @@ building express server with user authentication, hash encryption and db storage
 
 
 ## PR : [Github pull request](https://github.com/MasteRminD6666/basic-auth/pull/1) </center>
-#### 
+[Heroku](https://rami-basic-auth.herokuapp.com/) </center>
 -----------
 
 ## <center> [Herokuo-signup](https://rami-basic-auth.herokuapp.com/signup) </center>
-## <center> Json {
-    "username": "mastermind",
-    "password": "password"
-}
-
 ## <center> [Herokuo-signin](https://rami-basic-auth.herokuapp.com/signin) </center>
 ## <center> Json {
     "username": "mastermind",
     "password": "password"
 }
+
+
+
 
 
 
